@@ -7,3 +7,4 @@ ruby "2.1.5"
 gem 'transpec'
 gem 'rspec', '~> 2.0'
 gem 'pry-byebug'
+gem 'awesome_print'
